@@ -16,12 +16,12 @@
 ## Install
 
 ```sh
-composer require Ihsandevs/cloudflare-bypasser
+composer require votong/cloudflare-bypasser
 ```
 ## Usage
 ```php
 <?php 
-use Ihsandevs\CloudflareBypasser\Bypass;
+use VoTong\CloudflareBypasser\Bypass;
 
 
 require __DIR__ . '/vendor/autoload.php';
@@ -32,7 +32,7 @@ echo $bypass->getRealContent(); // will return HTML content of the page
 ```
 ## Author
 
-👤 **Ihsan Devs**
+👤 **Vo Tong**
 
 * Website: https://ihsandevs.com
 * Twitter: [@IhsanDevs](https://twitter.com/IhsanDevs)
