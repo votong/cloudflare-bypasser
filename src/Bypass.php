@@ -1,5 +1,5 @@
 <?php
-namespace Ihsandevs\CloudflareBypasser;
+namespace VoTong\CloudflareBypasser;
 use Symfony\Component\Process\Process;
 
 class Bypass
